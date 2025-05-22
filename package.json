@@ -1,0 +1,14 @@
+{
+  "name": "bird-search",
+  "version": "1.0.0",
+  "description": "Bird observation data fetcher",
+  "main": "search.js",
+  "scripts": {
+    "start": "node search.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "yargs": "^17.7.2"
+  }
+} 
